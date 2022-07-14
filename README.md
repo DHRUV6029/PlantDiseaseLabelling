@@ -1,4 +1,4 @@
-# Creating an AI app that detects diseases in plants using Facebook’s deep learning platform: PyTorch
+# Detecting infected Plants using Deep Learning
 <img src="https://th.bing.com/th/id/OIP.bH6gGtj1v1JdMTTvdxM9cQHaHa?pid=ImgDet&rs=1">
 
 According to the Food and Agriculture organization of the United Nations (UN), transboundary plant pests and diseases affect food crops, causing significant losses to farmers and threatening food security.

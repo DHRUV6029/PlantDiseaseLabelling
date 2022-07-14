@@ -21,7 +21,7 @@ Computer Vision is a field within deep learning that is growing up more everyday
 In this notebook I will implement a deep learning model that can identify plant diseases, using Pytorch framework,  a Convolutional Neural Network (CNN) architecture. The goal is to detect different plant diseases by looking a picture.
 
 we train this image classifier to recognize the different plant diseases given an image.This can be implemented in a phone app that tells you the type of disease your camera is looking at. 
-<B>INSTRUCTIONS</B>
+
 
 The project is broken down into multiple steps:
 
@@ -34,5 +34,5 @@ Everything you need to recreate this project is on the jupyter notebook. Everyth
 
 You can find the requirements in Requirements.txt, but everything is in the notebook, so you can install all by using pip install. I recommend using Google Colab.
  
-This project is updated to be compatible with PyTorch 0.4.0
+
 
